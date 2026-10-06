@@ -3,6 +3,7 @@
   "name": "findmymusicgurukul-frontend",
   "compatibility_date": "2026-10-01",
   "assets": {
-    "directory": "./build"
+    "directory": "./build",
+    "not_found_handling": "single-page-application"
   }
 }
